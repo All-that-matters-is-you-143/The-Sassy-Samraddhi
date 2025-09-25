@@ -152,10 +152,10 @@ ul {
 
 .pg3c {
   position: absolute;
-  top: 73%;
+  top: 80%;
   left: 3%;
   right: 3%;
-  font-size: 26px;
+  font-size: 22px;
   font-weight: bolder;
   color: rgb(115, 255, 255);
   letter-spacing: 1px;
@@ -328,4 +328,5 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
 
