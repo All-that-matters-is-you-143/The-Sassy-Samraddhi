@@ -73,7 +73,7 @@ p {
   padding-top: 10px;
   position: absolute;
   top: 9%;
-  left: 14%;
+  left: 10%;
   background-color: transparent;
 
 }
@@ -328,5 +328,6 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
 
 
