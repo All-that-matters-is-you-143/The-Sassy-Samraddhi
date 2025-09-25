@@ -31,7 +31,7 @@
   margin-bottom: 5px;
   margin-right: 10px;
   padding: 2px 5px;
-  font-family: Lucida Handwriting;
+  font-family: "Amarante", serif;
 }
 
 .story {
@@ -52,7 +52,7 @@
 
 .story h1,
 p {
-  font-family: Papyrus;
+  font-family: "Amarante", serif;
   height: auto;
   text-align: center;
 }
@@ -110,7 +110,7 @@ p {
 .points h1,
 p,
 ul {
-  font-family: Papyrus;
+  font-family: "Amarante", serif;
   height: auto;
   text-align: center;
   background-color: transparent;
@@ -218,7 +218,7 @@ ul {
 
 
 .pg5 {
-  font-family: Papyrus;
+  font-family: "Amarante", serif;
   background: #000;
   text-align: center;
   /* padding: 30px; */
@@ -310,7 +310,7 @@ ul {
 .pg5c {
   color: white;
   width: 80%;
-  font-family: Papyrus;
+  font-family: "Amarante", serif;
   font-size: 17px;
   text-align: left;
   left: 0%;
@@ -328,3 +328,4 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
