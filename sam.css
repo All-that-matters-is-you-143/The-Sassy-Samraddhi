@@ -120,9 +120,9 @@ ul {
 
 .pg3a {
   position: absolute;
-  font-size: 30px;
+  font-size: 27px;
   top: 4%;
-  left: 17%;
+  left: 12%;
   word-spacing: 2px;
   letter-spacing: 1px;
   color: rgb(225, 255, 0);
@@ -130,10 +130,10 @@ ul {
 
 .pg3b {
   position: absolute;
-  font-size: 15px;
+  font-size: 12px;
   top: 20%;
-  left: 2%;
-  right: 2%;
+  left: 3%;
+  right: 1%;
   text-align: justify;
   background-color: transparent;
 
@@ -141,7 +141,7 @@ ul {
 
 .pg3b ul li {
   background-color: transparent;
-  font-size: 22px;
+  font-size: 18px;
   text-align: justify;
   font-weight: bold;
   line-height: 40px;
@@ -154,7 +154,7 @@ ul {
 
 .pg3c {
   position: absolute;
-  top: 80%;
+  top: 75%;
   left: 3%;
   right: 3%;
   font-size: 22px;
@@ -330,6 +330,7 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
 
 
 
