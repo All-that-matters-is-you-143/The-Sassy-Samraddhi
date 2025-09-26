@@ -61,7 +61,7 @@ p {
   color: rgb(0, 255, 0);
   position: absolute;
   text-align: center;
-  top: 3%;
+  top: 1%;
   left: 5%;
   background-color: transparent;
 }
@@ -71,7 +71,7 @@ p {
   color: rgb(248, 255, 35);
   padding-top: 10px;
   position: absolute;
-  top: 9%;
+  top: 5%;
   left: 10%;
   background-color: transparent;
 
@@ -81,15 +81,15 @@ p {
   /* padding: 30px 50px; */
   position: absolute;
   text-align: justify;
-  font-size: 13px;
-  top: 17%;
+  font-size: 11px;
+  top: 10%;
   left: 3%;
   right: 3%;
   font-weight: bolder;
   color: #fff;
   opacity:80%;
   background-color: transparent;
-  line-height: 21px;
+  line-height: 18px;
 
 }
 
@@ -330,6 +330,7 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
 
 
 
