@@ -5,12 +5,12 @@
 }
 
 .pg1a {
-  width: 325px;
+  width: 375px;
 }
 
 .pg1a img {
   width: 100%;
-  height: 735px;
+  height: auto;
 }
 
 .swap {
@@ -329,6 +329,7 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
 
 
 
