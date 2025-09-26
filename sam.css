@@ -173,6 +173,7 @@ ul {
   width: 100%;
   display: flex;
   margin-bottom: 15px;
+  justify-content: center;
 }
 
 .yaade {
@@ -329,6 +330,7 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
 
 
 
