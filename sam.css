@@ -164,8 +164,8 @@ ul {
 
 .heading {
   color: beige;
-  font-size: 8px;
-  margin: 22px;
+  font-size: 10px;
+  margin: 15px;
   text-align: center;
 }
 
@@ -329,6 +329,7 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
 
 
 
