@@ -61,7 +61,7 @@ p {
   color: rgb(0, 255, 0);
   position: absolute;
   text-align: center;
-  top: 1%;
+  top: 2%;
   left: 5%;
   background-color: transparent;
 }
@@ -71,8 +71,8 @@ p {
   color: rgb(248, 255, 35);
   padding-top: 10px;
   position: absolute;
-  top: 6%;
-  left: 10%;
+  top: 7%;
+  left: 13%;
   background-color: transparent;
 
 }
@@ -82,7 +82,7 @@ p {
   position: absolute;
   text-align: justify;
   font-size: 12px;
-  top: 13%;
+  top: 15%;
   left: 3%;
   right: 3%;
   font-weight: bolder;
@@ -122,7 +122,7 @@ ul {
   position: absolute;
   font-size: 27px;
   top: 4%;
-  left: 15%;
+  left: 14%;
   word-spacing: 2px;
   letter-spacing: 1px;
   color: rgb(225, 255, 0);
@@ -140,7 +140,7 @@ ul {
 
 .pg3b ul li {
   background-color: transparent;
-  font-size: 18px;
+  font-size: 20px;
   text-align: justify;
   font-weight: bold;
   line-height: 40px;
@@ -153,7 +153,7 @@ ul {
 
 .pg3c {
   position: absolute;
-  top: 75%;
+  top: 78%;
   left: 3%;
   right: 3%;
   font-size: 22px;
@@ -329,6 +329,7 @@ ul {
   justify-self: center;
   height: 20px;
 }
+
 
 
 
